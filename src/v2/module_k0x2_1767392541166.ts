@@ -1,0 +1,1 @@
+const util_k0x2 = (d: any) => d;
